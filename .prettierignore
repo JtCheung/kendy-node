@@ -1,0 +1,7 @@
+**/*.md
+**/*.mdx
+
+lib
+libs
+dist
+*.d.ts
